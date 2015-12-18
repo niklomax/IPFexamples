@@ -1,0 +1,8 @@
+Case study 3: Analysing general health by ethnic group and age
+This folder contains 2 files:
+1) The data used in the case study "Cade Study 3 Data.xlxs"
+2) The R code used to apply IPF to the case study data
+
+The data file has a sheet called "IPF" with a simple excel based calculation of the IPF routine in action
+
+There are ##comments in the R file which show which parts need to be altered and explains what each part is doing
